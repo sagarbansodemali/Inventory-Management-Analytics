@@ -142,33 +142,9 @@ This project demonstrates practical experience in:
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Inventory-Management-Analytics
-│
-├── data
-├── notebooks
-├── reports
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
-
----
-
 # ▶️ How to Run
 
-1. Clone this repository.
-2. Install the required Python libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebooks in Jupyter Notebook or JupyterLab.
-4. Run the notebooks in sequence:
+Run the notebooks in sequence:
    - 01_Univariate_Analysis.ipynb
    - 02_Bivariate_Analysis.ipynb
    - 03_Multivariate & Business Problem Analysis.ipynb
@@ -191,10 +167,3 @@ Pune, Maharashtra, India
 - Python-Based Exploratory Data Analysis
 - Real-World Warehouse Inventory Use Case
 - Actionable Business Insights and Recommendations
-
-
-## 📌 Repository Purpose
-
-This repository demonstrates a business-oriented inventory analytics case study using Python. The project showcases exploratory data analysis, business problem identification, data integration across multiple relational datasets, and actionable recommendations for improving warehouse inventory operations.
-
-The repository is intended for recruiters, hiring managers, and data analytics professionals to demonstrate practical analytical and problem-solving skills.
